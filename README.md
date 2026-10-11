@@ -1,6 +1,6 @@
 # fanfan 图标 Fanfan Icons
 
-![fanfan 动起来](preview/all.gif)
+![fanfan 图标动态封面](preview/hero.gif)
 
 一套 24 格的线性 UI 图标。第一位是小猫**猫茂**：它会叼着信封、托着爱心、把皇冠歪戴在耳朵上。动作图标（箭头、关闭、复制……）保持干净，一眼读懂。
 
