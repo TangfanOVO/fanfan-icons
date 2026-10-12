@@ -2,7 +2,7 @@
 
 ![19 个专属动作](../preview/tricks.gif)
 
-111 个猫茂图标都会动：醒来、睡着、待机眨眼、弹一下、脸红。其中 19 个还有自己的小动作，比如铃铛叮铃、齿轮转、下雨。
+猫茂、狗勾和两版兔叽各 111 个图标都会动：醒来、睡着、待机眨眼、弹一下、脸红。其中 19 个还有自己的小动作，比如铃铛叮铃、齿轮转、下雨。
 
 在线预览：`https://TangfanOVO.github.io/fanfan-icons/motion/`
 
@@ -113,6 +113,63 @@ document.querySelectorAll(".tab").forEach(tab => {
 | 启动 `cat-rocket` | 起飞 |
 | 新功能 `cat-sparkles` | 闪闪 |
 | 庆祝 `cat-balloon` | 飘飘 |
+| 搜索 `dog-search` | 找一找 |
+| 消息 `dog-chat` | 冒泡 |
+| 通知 `dog-bell` | 叮铃 |
+| 相机 `dog-camera` | 咔嚓 |
+| 定位 `dog-location` | 落点 |
+| 浅色模式 `dog-sun` | 光芒转 |
+| 喜欢 `dog-heart` | 怦怦 |
+| 星标 `dog-star` | 星星翻 |
+| 灵感 `dog-bulb` | 灵光一闪 |
+| 热门 `dog-fire` | 火苗跳 |
+| 主页 `dog-home` | 帽子跳 |
+| 音乐 `dog-music` | 摇头晃脑 |
+| 设置 `dog-settings` | 齿轮转 |
+| 下雨 `dog-umbrella` | 下雨啦 |
+| 成长 `dog-sprout` | 发芽 |
+| 闹钟 `dog-alarm` | 闹铃响 |
+| 启动 `dog-rocket` | 起飞 |
+| 新功能 `dog-sparkles` | 闪闪 |
+| 庆祝 `dog-balloon` | 飘飘 |
+| 搜索 `lop-search` | 找一找 |
+| 消息 `lop-chat` | 冒泡 |
+| 通知 `lop-bell` | 叮铃 |
+| 相机 `lop-camera` | 咔嚓 |
+| 定位 `lop-location` | 落点 |
+| 浅色模式 `lop-sun` | 光芒转 |
+| 喜欢 `lop-heart` | 怦怦 |
+| 星标 `lop-star` | 星星翻 |
+| 灵感 `lop-bulb` | 灵光一闪 |
+| 热门 `lop-fire` | 火苗跳 |
+| 主页 `lop-home` | 帽子跳 |
+| 音乐 `lop-music` | 摇头晃脑 |
+| 设置 `lop-settings` | 齿轮转 |
+| 下雨 `lop-umbrella` | 下雨啦 |
+| 成长 `lop-sprout` | 发芽 |
+| 闹钟 `lop-alarm` | 闹铃响 |
+| 启动 `lop-rocket` | 起飞 |
+| 新功能 `lop-sparkles` | 闪闪 |
+| 庆祝 `lop-balloon` | 飘飘 |
+| 搜索 `bunny-search` | 找一找 |
+| 消息 `bunny-chat` | 冒泡 |
+| 通知 `bunny-bell` | 叮铃 |
+| 相机 `bunny-camera` | 咔嚓 |
+| 定位 `bunny-location` | 落点 |
+| 浅色模式 `bunny-sun` | 光芒转 |
+| 喜欢 `bunny-heart` | 怦怦 |
+| 星标 `bunny-star` | 星星翻 |
+| 灵感 `bunny-bulb` | 灵光一闪 |
+| 热门 `bunny-fire` | 火苗跳 |
+| 主页 `bunny-home` | 帽子跳 |
+| 音乐 `bunny-music` | 摇头晃脑 |
+| 设置 `bunny-settings` | 齿轮转 |
+| 下雨 `bunny-umbrella` | 下雨啦 |
+| 成长 `bunny-sprout` | 发芽 |
+| 闹钟 `bunny-alarm` | 闹铃响 |
+| 启动 `bunny-rocket` | 起飞 |
+| 新功能 `bunny-sparkles` | 闪闪 |
+| 庆祝 `bunny-balloon` | 飘飘 |
 
 ## 授权
 
@@ -122,6 +179,6 @@ fanfan 图标 © 2026 唐幡，按 [MIT](../LICENSE) 授权，和静态版相同
 
 ## English
 
-The motion edition: all 111 Maomao (cat) icons can wake up, fall asleep, idle (breathing and blinking), bounce and blush, and 19 of them have a trick of their own. Paste the SVG inline (it won't animate inside `<img>`), include `fanfan-motion.css`, then call `FanfanMotion.play(svg, "wake" | "sleep" | "bounce" | "blush" | "trick")` from `fanfan-motion.js`, or toggle the `is-asleep`, `idle` and `do-*` classes on the `<svg>` yourself. MIT, same as the static set.
+The motion edition: all 111 Maomao (cat), 111 dog and 2 × 111 bunny icons can wake up, fall asleep, idle (breathing and blinking), bounce and blush, and 19 of them have a trick of their own. Paste the SVG inline (it won't animate inside `<img>`), include `fanfan-motion.css`, then call `FanfanMotion.play(svg, "wake" | "sleep" | "bounce" | "blush" | "trick")` from `fanfan-motion.js`, or toggle the `is-asleep`, `idle` and `do-*` classes on the `<svg>` yourself. MIT, same as the static set.
 
 fanfan 和豹宝用的是同一套动作和同一个助手：页面上同时用两套时，只引入一份 CSS 和 JS 就够了，`FanfanMotion` 和 `BaobaoMotion` 是同一个东西。以后有新的小动物，也用这同一套。

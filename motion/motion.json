@@ -1,6 +1,6 @@
 {
  "name": "fanfan 图标 Fanfan Icons · 动态版",
- "version": "1.0.0",
+ "version": "1.2.1",
  "license": "MIT",
  "styles": [
   "thin",
@@ -20,666 +20,3108 @@
   {
    "name": "cat-face",
    "label": "本体",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-face-whole",
    "label": "本体 · 整只",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-search",
    "label": "搜索",
+   "animal": "cat",
    "trick": "找一找",
    "happyEyes": false
   },
   {
    "name": "cat-search-tilt",
    "label": "搜索 · 歪头",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-chat",
    "label": "消息",
+   "animal": "cat",
    "trick": "冒泡",
    "happyEyes": true
   },
   {
    "name": "cat-chat-tilt",
    "label": "消息 · 歪头",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-bell",
    "label": "通知",
+   "animal": "cat",
    "trick": "叮铃",
    "happyEyes": false
   },
   {
    "name": "cat-camera",
    "label": "相机",
+   "animal": "cat",
    "trick": "咔嚓",
    "happyEyes": false
   },
   {
    "name": "cat-location",
    "label": "定位",
+   "animal": "cat",
    "trick": "落点",
    "happyEyes": false
   },
   {
    "name": "cat-cloud",
    "label": "云",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-sun",
    "label": "浅色模式",
+   "animal": "cat",
    "trick": "光芒转",
    "happyEyes": false
   },
   {
    "name": "cat-shield",
    "label": "安全",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-scan",
    "label": "扫一扫",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-mail",
    "label": "信件",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-mail-hug",
    "label": "信件 · 抱",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-calendar",
    "label": "日历",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-bag",
    "label": "购物",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-wallet",
    "label": "钱包",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-ticket",
    "label": "优惠券",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-image",
    "label": "图片",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-video",
    "label": "视频",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-folder",
    "label": "文件夹",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-map",
    "label": "地图",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-key",
    "label": "钥匙",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-redpacket",
    "label": "红包",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-bookmark",
    "label": "收藏",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-file",
    "label": "文件",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-tag",
    "label": "标签",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-heart",
    "label": "喜欢",
+   "animal": "cat",
    "trick": "怦怦",
    "happyEyes": true
   },
   {
    "name": "cat-heart-chin",
    "label": "喜欢 · 托",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-heart-side",
    "label": "喜欢 · 斜着咬",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-star",
    "label": "星标",
+   "animal": "cat",
    "trick": "星星翻",
    "happyEyes": false
   },
   {
    "name": "cat-bulb",
    "label": "灵感",
+   "animal": "cat",
    "trick": "灵光一闪",
    "happyEyes": false
   },
   {
    "name": "cat-trophy",
    "label": "奖杯",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-fire",
    "label": "热门",
+   "animal": "cat",
    "trick": "火苗跳",
    "happyEyes": false
   },
   {
    "name": "cat-gift",
    "label": "礼物",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-book",
    "label": "书",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-coin",
    "label": "积分",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-game",
    "label": "游戏",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-home",
    "label": "主页",
+   "animal": "cat",
    "trick": "帽子跳",
    "happyEyes": false
   },
   {
    "name": "cat-crown",
    "label": "会员",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-music",
    "label": "音乐",
+   "animal": "cat",
    "trick": "摇头晃脑",
    "happyEyes": true
   },
   {
    "name": "cat-cake",
    "label": "生日",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-headset",
    "label": "客服",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-settings",
    "label": "设置",
+   "animal": "cat",
    "trick": "齿轮转",
    "happyEyes": false
   },
   {
    "name": "cat-clock",
    "label": "时间",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-globe",
    "label": "语言",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-moon",
    "label": "深色模式",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-package",
    "label": "快递",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-me",
    "label": "我的",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-me-whole",
    "label": "我的 · 整只",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-users",
    "label": "好友",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-users-small",
    "label": "好友 · 小身体",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-users-whole",
    "label": "好友 · 两只整只",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-user-add",
    "label": "加好友",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-chart",
    "label": "数据",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-cart",
    "label": "购物车",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-phone",
    "label": "电话",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-mic",
    "label": "语音",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-coffee",
    "label": "咖啡",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-bubbletea",
    "label": "奶茶",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-icecream",
    "label": "甜品",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-icecream-top",
    "label": "甜品 · 顶着",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-fish",
    "label": "美食",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-bath",
    "label": "洗澡",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-sleep",
    "label": "睡眠",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-umbrella",
    "label": "下雨",
+   "animal": "cat",
    "trick": "下雨啦",
    "happyEyes": true
   },
   {
    "name": "cat-umbrella-top",
    "label": "下雨 · 顶着",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-sprout",
    "label": "成长",
+   "animal": "cat",
    "trick": "发芽",
    "happyEyes": true
   },
   {
    "name": "cat-thermometer",
    "label": "体温",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-bandage",
    "label": "修复",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-ball",
    "label": "运动",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-dumbbell",
    "label": "健身",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-medal",
    "label": "勋章",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-pill",
    "label": "吃药",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-grad",
    "label": "学习",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-pencil",
    "label": "写作",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-notebook",
    "label": "笔记",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-laptop",
    "label": "电脑",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-briefcase",
    "label": "工作",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-palette",
    "label": "创作",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-wand",
    "label": "魔法",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-robot",
    "label": "助手",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-tv",
    "label": "电视",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-watch",
    "label": "手表",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-mobile",
    "label": "手机",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-glasses",
    "label": "护眼",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-popcorn",
    "label": "电影",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-alarm",
    "label": "闹钟",
+   "animal": "cat",
    "trick": "闹铃响",
    "happyEyes": false
   },
   {
    "name": "cat-puzzle",
    "label": "插件",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-car",
    "label": "出行",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-bus",
    "label": "公交",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-rocket",
    "label": "启动",
+   "animal": "cat",
    "trick": "起飞",
    "happyEyes": false
   },
   {
    "name": "cat-suitcase",
    "label": "旅行",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-store",
    "label": "商店",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-compass",
    "label": "发现",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-piggy",
    "label": "存钱",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-card",
    "label": "银行卡",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-receipt",
    "label": "账单",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-gem",
    "label": "钻石",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-sparkles",
    "label": "新功能",
+   "animal": "cat",
    "trick": "闪闪",
    "happyEyes": false
   },
   {
    "name": "cat-inbox",
    "label": "收件箱",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-qr",
    "label": "二维码",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-flower",
    "label": "小花",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-balloon",
    "label": "庆祝",
+   "animal": "cat",
    "trick": "飘飘",
    "happyEyes": true
   },
   {
    "name": "cat-snow",
    "label": "冬天",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-checkin",
    "label": "签到",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-live",
    "label": "直播",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-sticker",
    "label": "表情包",
+   "animal": "cat",
    "trick": null,
    "happyEyes": true
   },
   {
    "name": "cat-dice",
    "label": "随机",
+   "animal": "cat",
    "trick": null,
    "happyEyes": false
   },
   {
    "name": "cat-news",
    "label": "资讯",
+   "animal": "cat",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-face",
+   "label": "本体",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-face-whole",
+   "label": "本体 · 整只",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-search",
+   "label": "搜索",
+   "animal": "dog",
+   "trick": "找一找",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-search-tilt",
+   "label": "搜索 · 歪头",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-chat",
+   "label": "消息",
+   "animal": "dog",
+   "trick": "冒泡",
+   "happyEyes": true
+  },
+  {
+   "name": "dog-chat-tilt",
+   "label": "消息 · 歪头",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-bell",
+   "label": "通知",
+   "animal": "dog",
+   "trick": "叮铃",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-camera",
+   "label": "相机",
+   "animal": "dog",
+   "trick": "咔嚓",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-location",
+   "label": "定位",
+   "animal": "dog",
+   "trick": "落点",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-cloud",
+   "label": "云",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-sun",
+   "label": "浅色模式",
+   "animal": "dog",
+   "trick": "光芒转",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-shield",
+   "label": "安全",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-scan",
+   "label": "扫一扫",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-mail",
+   "label": "信件",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-mail-hug",
+   "label": "信件 · 抱",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-calendar",
+   "label": "日历",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-bag",
+   "label": "购物",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-wallet",
+   "label": "钱包",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-ticket",
+   "label": "优惠券",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-image",
+   "label": "图片",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-video",
+   "label": "视频",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-folder",
+   "label": "文件夹",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-map",
+   "label": "地图",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-key",
+   "label": "钥匙",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-redpacket",
+   "label": "红包",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-bookmark",
+   "label": "收藏",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-file",
+   "label": "文件",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-tag",
+   "label": "标签",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-heart",
+   "label": "喜欢",
+   "animal": "dog",
+   "trick": "怦怦",
+   "happyEyes": true
+  },
+  {
+   "name": "dog-heart-chin",
+   "label": "喜欢 · 托",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-heart-side",
+   "label": "喜欢 · 斜着咬",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-star",
+   "label": "星标",
+   "animal": "dog",
+   "trick": "星星翻",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-bulb",
+   "label": "灵感",
+   "animal": "dog",
+   "trick": "灵光一闪",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-trophy",
+   "label": "奖杯",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-fire",
+   "label": "热门",
+   "animal": "dog",
+   "trick": "火苗跳",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-gift",
+   "label": "礼物",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-book",
+   "label": "书",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-coin",
+   "label": "积分",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-game",
+   "label": "游戏",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-home",
+   "label": "主页",
+   "animal": "dog",
+   "trick": "帽子跳",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-crown",
+   "label": "会员",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-music",
+   "label": "音乐",
+   "animal": "dog",
+   "trick": "摇头晃脑",
+   "happyEyes": true
+  },
+  {
+   "name": "dog-cake",
+   "label": "生日",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-headset",
+   "label": "客服",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-settings",
+   "label": "设置",
+   "animal": "dog",
+   "trick": "齿轮转",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-clock",
+   "label": "时间",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-globe",
+   "label": "语言",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-moon",
+   "label": "深色模式",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-package",
+   "label": "快递",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-me",
+   "label": "我的",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-me-whole",
+   "label": "我的 · 整只",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-users",
+   "label": "好友",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-users-small",
+   "label": "好友 · 小身体",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-users-whole",
+   "label": "好友 · 两只整只",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-user-add",
+   "label": "加好友",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-chart",
+   "label": "数据",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-cart",
+   "label": "购物车",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-phone",
+   "label": "电话",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-mic",
+   "label": "语音",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-coffee",
+   "label": "咖啡",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-bubbletea",
+   "label": "奶茶",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-icecream",
+   "label": "甜品",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-icecream-top",
+   "label": "甜品 · 顶着",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-fish",
+   "label": "美食",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-bath",
+   "label": "洗澡",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-sleep",
+   "label": "睡眠",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-umbrella",
+   "label": "下雨",
+   "animal": "dog",
+   "trick": "下雨啦",
+   "happyEyes": true
+  },
+  {
+   "name": "dog-umbrella-top",
+   "label": "下雨 · 顶着",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-sprout",
+   "label": "成长",
+   "animal": "dog",
+   "trick": "发芽",
+   "happyEyes": true
+  },
+  {
+   "name": "dog-thermometer",
+   "label": "体温",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-bandage",
+   "label": "修复",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-ball",
+   "label": "运动",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-dumbbell",
+   "label": "健身",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-medal",
+   "label": "勋章",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-pill",
+   "label": "吃药",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-grad",
+   "label": "学习",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-pencil",
+   "label": "写作",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-notebook",
+   "label": "笔记",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-laptop",
+   "label": "电脑",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-briefcase",
+   "label": "工作",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-palette",
+   "label": "创作",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-wand",
+   "label": "魔法",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-robot",
+   "label": "助手",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-tv",
+   "label": "电视",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-watch",
+   "label": "手表",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-mobile",
+   "label": "手机",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-glasses",
+   "label": "护眼",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-popcorn",
+   "label": "电影",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-alarm",
+   "label": "闹钟",
+   "animal": "dog",
+   "trick": "闹铃响",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-puzzle",
+   "label": "插件",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-car",
+   "label": "出行",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-bus",
+   "label": "公交",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-rocket",
+   "label": "启动",
+   "animal": "dog",
+   "trick": "起飞",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-suitcase",
+   "label": "旅行",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-store",
+   "label": "商店",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-compass",
+   "label": "发现",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-piggy",
+   "label": "存钱",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-card",
+   "label": "银行卡",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-receipt",
+   "label": "账单",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-gem",
+   "label": "钻石",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-sparkles",
+   "label": "新功能",
+   "animal": "dog",
+   "trick": "闪闪",
+   "happyEyes": false
+  },
+  {
+   "name": "dog-inbox",
+   "label": "收件箱",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-qr",
+   "label": "二维码",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-flower",
+   "label": "小花",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-balloon",
+   "label": "庆祝",
+   "animal": "dog",
+   "trick": "飘飘",
+   "happyEyes": true
+  },
+  {
+   "name": "dog-snow",
+   "label": "冬天",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-checkin",
+   "label": "签到",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-live",
+   "label": "直播",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-sticker",
+   "label": "表情包",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "dog-dice",
+   "label": "随机",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "dog-news",
+   "label": "资讯",
+   "animal": "dog",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-face",
+   "label": "本体",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-face-whole",
+   "label": "本体 · 整只",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-search",
+   "label": "搜索",
+   "animal": "lop",
+   "trick": "找一找",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-search-tilt",
+   "label": "搜索 · 歪头",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-chat",
+   "label": "消息",
+   "animal": "lop",
+   "trick": "冒泡",
+   "happyEyes": true
+  },
+  {
+   "name": "lop-chat-tilt",
+   "label": "消息 · 歪头",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-bell",
+   "label": "通知",
+   "animal": "lop",
+   "trick": "叮铃",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-camera",
+   "label": "相机",
+   "animal": "lop",
+   "trick": "咔嚓",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-location",
+   "label": "定位",
+   "animal": "lop",
+   "trick": "落点",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-cloud",
+   "label": "云",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-sun",
+   "label": "浅色模式",
+   "animal": "lop",
+   "trick": "光芒转",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-shield",
+   "label": "安全",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-scan",
+   "label": "扫一扫",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-mail",
+   "label": "信件",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-mail-hug",
+   "label": "信件 · 抱",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-calendar",
+   "label": "日历",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-bag",
+   "label": "购物",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-wallet",
+   "label": "钱包",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-ticket",
+   "label": "优惠券",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-image",
+   "label": "图片",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-video",
+   "label": "视频",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-folder",
+   "label": "文件夹",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-map",
+   "label": "地图",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-key",
+   "label": "钥匙",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-redpacket",
+   "label": "红包",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-bookmark",
+   "label": "收藏",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-file",
+   "label": "文件",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-tag",
+   "label": "标签",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-heart",
+   "label": "喜欢",
+   "animal": "lop",
+   "trick": "怦怦",
+   "happyEyes": true
+  },
+  {
+   "name": "lop-heart-chin",
+   "label": "喜欢 · 托",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-heart-side",
+   "label": "喜欢 · 斜着咬",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-star",
+   "label": "星标",
+   "animal": "lop",
+   "trick": "星星翻",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-bulb",
+   "label": "灵感",
+   "animal": "lop",
+   "trick": "灵光一闪",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-trophy",
+   "label": "奖杯",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-fire",
+   "label": "热门",
+   "animal": "lop",
+   "trick": "火苗跳",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-gift",
+   "label": "礼物",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-book",
+   "label": "书",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-coin",
+   "label": "积分",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-game",
+   "label": "游戏",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-home",
+   "label": "主页",
+   "animal": "lop",
+   "trick": "帽子跳",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-crown",
+   "label": "会员",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-music",
+   "label": "音乐",
+   "animal": "lop",
+   "trick": "摇头晃脑",
+   "happyEyes": true
+  },
+  {
+   "name": "lop-cake",
+   "label": "生日",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-headset",
+   "label": "客服",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-settings",
+   "label": "设置",
+   "animal": "lop",
+   "trick": "齿轮转",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-clock",
+   "label": "时间",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-globe",
+   "label": "语言",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-moon",
+   "label": "深色模式",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-package",
+   "label": "快递",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-me",
+   "label": "我的",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-me-whole",
+   "label": "我的 · 整只",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-users",
+   "label": "好友",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-users-small",
+   "label": "好友 · 小身体",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-users-whole",
+   "label": "好友 · 两只整只",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-user-add",
+   "label": "加好友",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-chart",
+   "label": "数据",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-cart",
+   "label": "购物车",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-phone",
+   "label": "电话",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-mic",
+   "label": "语音",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-coffee",
+   "label": "咖啡",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-bubbletea",
+   "label": "奶茶",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-icecream",
+   "label": "甜品",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-icecream-top",
+   "label": "甜品 · 顶着",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-fish",
+   "label": "美食",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-bath",
+   "label": "洗澡",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-sleep",
+   "label": "睡眠",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-umbrella",
+   "label": "下雨",
+   "animal": "lop",
+   "trick": "下雨啦",
+   "happyEyes": true
+  },
+  {
+   "name": "lop-umbrella-top",
+   "label": "下雨 · 顶着",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-sprout",
+   "label": "成长",
+   "animal": "lop",
+   "trick": "发芽",
+   "happyEyes": true
+  },
+  {
+   "name": "lop-thermometer",
+   "label": "体温",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-bandage",
+   "label": "修复",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-ball",
+   "label": "运动",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-dumbbell",
+   "label": "健身",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-medal",
+   "label": "勋章",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-pill",
+   "label": "吃药",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-grad",
+   "label": "学习",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-pencil",
+   "label": "写作",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-notebook",
+   "label": "笔记",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-laptop",
+   "label": "电脑",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-briefcase",
+   "label": "工作",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-palette",
+   "label": "创作",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-wand",
+   "label": "魔法",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-robot",
+   "label": "助手",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-tv",
+   "label": "电视",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-watch",
+   "label": "手表",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-mobile",
+   "label": "手机",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-glasses",
+   "label": "护眼",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-popcorn",
+   "label": "电影",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-alarm",
+   "label": "闹钟",
+   "animal": "lop",
+   "trick": "闹铃响",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-puzzle",
+   "label": "插件",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-car",
+   "label": "出行",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-bus",
+   "label": "公交",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-rocket",
+   "label": "启动",
+   "animal": "lop",
+   "trick": "起飞",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-suitcase",
+   "label": "旅行",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-store",
+   "label": "商店",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-compass",
+   "label": "发现",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-piggy",
+   "label": "存钱",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-card",
+   "label": "银行卡",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-receipt",
+   "label": "账单",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-gem",
+   "label": "钻石",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-sparkles",
+   "label": "新功能",
+   "animal": "lop",
+   "trick": "闪闪",
+   "happyEyes": false
+  },
+  {
+   "name": "lop-inbox",
+   "label": "收件箱",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-qr",
+   "label": "二维码",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-flower",
+   "label": "小花",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-balloon",
+   "label": "庆祝",
+   "animal": "lop",
+   "trick": "飘飘",
+   "happyEyes": true
+  },
+  {
+   "name": "lop-snow",
+   "label": "冬天",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-checkin",
+   "label": "签到",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-live",
+   "label": "直播",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-sticker",
+   "label": "表情包",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "lop-dice",
+   "label": "随机",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "lop-news",
+   "label": "资讯",
+   "animal": "lop",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-face",
+   "label": "本体",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-face-whole",
+   "label": "本体 · 整只",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-search",
+   "label": "搜索",
+   "animal": "bunny",
+   "trick": "找一找",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-search-tilt",
+   "label": "搜索 · 歪头",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-chat",
+   "label": "消息",
+   "animal": "bunny",
+   "trick": "冒泡",
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-chat-tilt",
+   "label": "消息 · 歪头",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-bell",
+   "label": "通知",
+   "animal": "bunny",
+   "trick": "叮铃",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-camera",
+   "label": "相机",
+   "animal": "bunny",
+   "trick": "咔嚓",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-location",
+   "label": "定位",
+   "animal": "bunny",
+   "trick": "落点",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-cloud",
+   "label": "云",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-sun",
+   "label": "浅色模式",
+   "animal": "bunny",
+   "trick": "光芒转",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-shield",
+   "label": "安全",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-scan",
+   "label": "扫一扫",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-mail",
+   "label": "信件",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-mail-hug",
+   "label": "信件 · 抱",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-calendar",
+   "label": "日历",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-bag",
+   "label": "购物",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-wallet",
+   "label": "钱包",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-ticket",
+   "label": "优惠券",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-image",
+   "label": "图片",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-video",
+   "label": "视频",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-folder",
+   "label": "文件夹",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-map",
+   "label": "地图",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-key",
+   "label": "钥匙",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-redpacket",
+   "label": "红包",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-bookmark",
+   "label": "收藏",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-file",
+   "label": "文件",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-tag",
+   "label": "标签",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-heart",
+   "label": "喜欢",
+   "animal": "bunny",
+   "trick": "怦怦",
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-heart-chin",
+   "label": "喜欢 · 托",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-heart-side",
+   "label": "喜欢 · 斜着咬",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-star",
+   "label": "星标",
+   "animal": "bunny",
+   "trick": "星星翻",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-bulb",
+   "label": "灵感",
+   "animal": "bunny",
+   "trick": "灵光一闪",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-trophy",
+   "label": "奖杯",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-fire",
+   "label": "热门",
+   "animal": "bunny",
+   "trick": "火苗跳",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-gift",
+   "label": "礼物",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-book",
+   "label": "书",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-coin",
+   "label": "积分",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-game",
+   "label": "游戏",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-home",
+   "label": "主页",
+   "animal": "bunny",
+   "trick": "帽子跳",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-crown",
+   "label": "会员",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-music",
+   "label": "音乐",
+   "animal": "bunny",
+   "trick": "摇头晃脑",
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-cake",
+   "label": "生日",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-headset",
+   "label": "客服",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-settings",
+   "label": "设置",
+   "animal": "bunny",
+   "trick": "齿轮转",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-clock",
+   "label": "时间",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-globe",
+   "label": "语言",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-moon",
+   "label": "深色模式",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-package",
+   "label": "快递",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-me",
+   "label": "我的",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-me-whole",
+   "label": "我的 · 整只",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-users",
+   "label": "好友",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-users-small",
+   "label": "好友 · 小身体",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-users-whole",
+   "label": "好友 · 两只整只",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-user-add",
+   "label": "加好友",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-chart",
+   "label": "数据",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-cart",
+   "label": "购物车",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-phone",
+   "label": "电话",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-mic",
+   "label": "语音",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-coffee",
+   "label": "咖啡",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-bubbletea",
+   "label": "奶茶",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-icecream",
+   "label": "甜品",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-icecream-top",
+   "label": "甜品 · 顶着",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-fish",
+   "label": "美食",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-bath",
+   "label": "洗澡",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-sleep",
+   "label": "睡眠",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-umbrella",
+   "label": "下雨",
+   "animal": "bunny",
+   "trick": "下雨啦",
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-umbrella-top",
+   "label": "下雨 · 顶着",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-sprout",
+   "label": "成长",
+   "animal": "bunny",
+   "trick": "发芽",
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-thermometer",
+   "label": "体温",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-bandage",
+   "label": "修复",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-ball",
+   "label": "运动",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-dumbbell",
+   "label": "健身",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-medal",
+   "label": "勋章",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-pill",
+   "label": "吃药",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-grad",
+   "label": "学习",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-pencil",
+   "label": "写作",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-notebook",
+   "label": "笔记",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-laptop",
+   "label": "电脑",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-briefcase",
+   "label": "工作",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-palette",
+   "label": "创作",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-wand",
+   "label": "魔法",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-robot",
+   "label": "助手",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-tv",
+   "label": "电视",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-watch",
+   "label": "手表",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-mobile",
+   "label": "手机",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-glasses",
+   "label": "护眼",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-popcorn",
+   "label": "电影",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-alarm",
+   "label": "闹钟",
+   "animal": "bunny",
+   "trick": "闹铃响",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-puzzle",
+   "label": "插件",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-car",
+   "label": "出行",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-bus",
+   "label": "公交",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-rocket",
+   "label": "启动",
+   "animal": "bunny",
+   "trick": "起飞",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-suitcase",
+   "label": "旅行",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-store",
+   "label": "商店",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-compass",
+   "label": "发现",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-piggy",
+   "label": "存钱",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-card",
+   "label": "银行卡",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-receipt",
+   "label": "账单",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-gem",
+   "label": "钻石",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-sparkles",
+   "label": "新功能",
+   "animal": "bunny",
+   "trick": "闪闪",
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-inbox",
+   "label": "收件箱",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-qr",
+   "label": "二维码",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-flower",
+   "label": "小花",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-balloon",
+   "label": "庆祝",
+   "animal": "bunny",
+   "trick": "飘飘",
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-snow",
+   "label": "冬天",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-checkin",
+   "label": "签到",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-live",
+   "label": "直播",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-sticker",
+   "label": "表情包",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": true
+  },
+  {
+   "name": "bunny-dice",
+   "label": "随机",
+   "animal": "bunny",
+   "trick": null,
+   "happyEyes": false
+  },
+  {
+   "name": "bunny-news",
+   "label": "资讯",
+   "animal": "bunny",
    "trick": null,
    "happyEyes": false
   }

@@ -1,4 +1,4 @@
-/* fanfan 图标 Fanfan Icons · 动态版 1.0.0 · MIT · by @唐幡 */
+/* fanfan 图标 Fanfan Icons · 动态版 1.2.1 · MIT · by @唐幡 */
 /* 豹宝 motion — every motion either moves a whole group (its gaps travel with it) or touches only eyes / cheeks / z */
 .bb { overflow: visible; --k: var(--bb-slow, 1); }
 .bb * { transform-box: fill-box; transform-origin: 50% 50%; }
@@ -263,6 +263,33 @@
 .bb-i-balloon.do-trick .bb-eye-h   { animation: bb-to-smile-h calc(1.8s * var(--k)) both; }
 @keyframes bb-sway { 0%, 100% { transform: none; } 25% { transform: translateY(-.4px) rotate(9deg); } 50% { transform: rotate(-6deg); } 75% { transform: translateY(-.2px) rotate(4deg); } }
 
+/* 狗勾的太阳只有六道光芒（左右让给耳朵），转一圈会对不上，所以改成闪两下 */
+.bb.bb-dog.bb-i-sun.do-trick .bb-sunrays { animation: bb-sunpulse calc(1.4s * var(--k)) both ease-in-out; }
+@keyframes bb-sunpulse { 0%, 100% { transform: none; } 25%, 70% { transform: scale(1.14); } 48% { transform: scale(.96); } }
+
+/* 兔兔：大多数图标是整只缩小后再长出长耳朵，所以支点跟着一起挪；托在下巴下面的东西各自按自己的中心动 */
+.bb.bb-bunny .bb-swing, .bb.bb-bunny .bb-clap { transform-box: view-box; transform-origin: 12px 9.47px; }
+.bb.bb-bunny.bb-i-chat .bb-body { transform-box: view-box; transform-origin: 3px 21.8px; }
+.bb.bb-bunny.bb-i-settings .bb-gearspin { transform-box: view-box; transform-origin: 18.3px 7.2px; }
+.bb.bb-bunny.bb-i-location .bb-body { transform-box: view-box; transform-origin: 12px 21.8px; }
+.bb.bb-bunny.bb-i-sun .bb-sunrays { transform-box: view-box; transform-origin: 12px 13.8px; }
+.bb.bb-bunny.bb-i-sprout .bb-stem { transform-box: view-box; transform-origin: 12px 14.41px; }
+.bb.bb-bunny.bb-i-sprout .bb-leaves { transform-box: view-box; transform-origin: 12px 12.67px; }
+.bb.bb-bunny.bb-i-balloon .bb-balloon { transform-box: view-box; transform-origin: 18.5px 15.1px; }
+.bb.bb-bunny.bb-i-rocket .bb-flame { transform-box: view-box; transform-origin: 12px 20.4px; }
+.bb.bb-bunny.bb-i-alarm.do-trick .bb-body { transform-box: view-box; transform-origin: 12px 14.6px; }
+.bb.bb-bunny .bb-love, .bb.bb-bunny .bb-star { transform-box: fill-box; transform-origin: 50% 50%; }
+.bb.bb-bunny .bb-flame { transform-box: fill-box; transform-origin: 50% 100%; }
+.bb.bb-bunny.bb-i-rocket .bb-flame { transform-box: view-box; transform-origin: 12px 20.4px; }
+/* 兔兔的太阳只有下面五道光芒，转一下会对不上，所以和狗勾一样闪两下 */
+.bb.bb-bunny.bb-i-sun.do-trick .bb-sunrays { animation: bb-sunpulse calc(1.4s * var(--k)) both ease-in-out; }
+/* 星星托在下巴下面，不往上跳，原地翻一下，眼睛往下看 */
+.bb.bb-bunny.bb-i-star.do-trick .bb-star  { animation: bb-star-turn calc(1.2s * var(--k)) both; }
+.bb.bb-bunny.bb-i-star.do-trick .bb-eye-a { animation: bb-look-down calc(1.2s * var(--k)) both ease-in-out; }
+@keyframes bb-star-turn {
+  0% { transform: none; animation-timing-function: cubic-bezier(.2, .6, .4, 1); } 40% { transform: scale(1.22) rotate(48deg); }
+  64% { transform: rotate(72deg); } 72% { transform: scale(1.06) rotate(72deg); } 80%, 100% { transform: rotate(72deg); } }
+@keyframes bb-look-down { 0%, 80%, 100% { transform: none; } 30%, 50% { transform: translateY(.4px); } }
 @media (prefers-reduced-motion: reduce) {
   .bb.idle .bb-body, .bb.idle .bb-eye-a { animation: none; }
 }

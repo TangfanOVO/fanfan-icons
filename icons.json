@@ -1,6 +1,6 @@
 {
  "name": "fanfan 图标 Fanfan Icons",
- "version": "1.0.0",
+ "version": "1.2.1",
  "license": "MIT",
  "grid": 24,
  "styles": [
@@ -12,7 +12,10 @@
   "thick-sleep"
  ],
  "animals": {
-  "cat": "猫茂"
+  "cat": "猫茂",
+  "dog": "狗勾",
+  "lop": "兔叽 · 折耳",
+  "bunny": "兔叽 · 竖耳"
  },
  "icons": [
   {
@@ -29,6 +32,57 @@
    "type": "cat",
    "animal": "cat",
    "alternateOf": "cat-face",
+   "n": 1,
+   "sleep": true
+  },
+  {
+   "name": "dog-face",
+   "label": "本体",
+   "type": "dog",
+   "animal": "dog",
+   "n": 1,
+   "sleep": true
+  },
+  {
+   "name": "dog-face-whole",
+   "label": "本体 · 整只",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-face",
+   "n": 1,
+   "sleep": true
+  },
+  {
+   "name": "lop-face",
+   "label": "本体",
+   "type": "lop",
+   "animal": "lop",
+   "n": 1,
+   "sleep": true
+  },
+  {
+   "name": "lop-face-whole",
+   "label": "本体 · 整只",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-face",
+   "n": 1,
+   "sleep": true
+  },
+  {
+   "name": "bunny-face",
+   "label": "本体",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 1,
+   "sleep": true
+  },
+  {
+   "name": "bunny-face-whole",
+   "label": "本体 · 整只",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-face",
    "n": 1,
    "sleep": true
   },
@@ -50,6 +104,57 @@
    "sleep": true
   },
   {
+   "name": "dog-search",
+   "label": "搜索",
+   "type": "dog",
+   "animal": "dog",
+   "n": 2,
+   "sleep": true
+  },
+  {
+   "name": "dog-search-tilt",
+   "label": "搜索 · 歪头",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-search",
+   "n": 2,
+   "sleep": true
+  },
+  {
+   "name": "lop-search",
+   "label": "搜索",
+   "type": "lop",
+   "animal": "lop",
+   "n": 2,
+   "sleep": true
+  },
+  {
+   "name": "lop-search-tilt",
+   "label": "搜索 · 歪头",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-search",
+   "n": 2,
+   "sleep": true
+  },
+  {
+   "name": "bunny-search",
+   "label": "搜索",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 2,
+   "sleep": true
+  },
+  {
+   "name": "bunny-search-tilt",
+   "label": "搜索 · 歪头",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-search",
+   "n": 2,
+   "sleep": true
+  },
+  {
    "name": "cat-chat",
    "label": "消息",
    "type": "cat",
@@ -67,10 +172,85 @@
    "sleep": true
   },
   {
+   "name": "dog-chat",
+   "label": "消息",
+   "type": "dog",
+   "animal": "dog",
+   "n": 3,
+   "sleep": true
+  },
+  {
+   "name": "dog-chat-tilt",
+   "label": "消息 · 歪头",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-chat",
+   "n": 3,
+   "sleep": true
+  },
+  {
+   "name": "lop-chat",
+   "label": "消息",
+   "type": "lop",
+   "animal": "lop",
+   "n": 3,
+   "sleep": true
+  },
+  {
+   "name": "lop-chat-tilt",
+   "label": "消息 · 歪头",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-chat",
+   "n": 3,
+   "sleep": true
+  },
+  {
+   "name": "bunny-chat",
+   "label": "消息",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 3,
+   "sleep": true
+  },
+  {
+   "name": "bunny-chat-tilt",
+   "label": "消息 · 歪头",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-chat",
+   "n": 3,
+   "sleep": true
+  },
+  {
    "name": "cat-bell",
    "label": "通知",
    "type": "cat",
    "animal": "cat",
+   "n": 4,
+   "sleep": true
+  },
+  {
+   "name": "dog-bell",
+   "label": "通知",
+   "type": "dog",
+   "animal": "dog",
+   "n": 4,
+   "sleep": true
+  },
+  {
+   "name": "lop-bell",
+   "label": "通知",
+   "type": "lop",
+   "animal": "lop",
+   "n": 4,
+   "sleep": true
+  },
+  {
+   "name": "bunny-bell",
+   "label": "通知",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 4,
    "sleep": true
   },
@@ -83,10 +263,58 @@
    "sleep": true
   },
   {
+   "name": "dog-camera",
+   "label": "相机",
+   "type": "dog",
+   "animal": "dog",
+   "n": 5,
+   "sleep": true
+  },
+  {
+   "name": "lop-camera",
+   "label": "相机",
+   "type": "lop",
+   "animal": "lop",
+   "n": 5,
+   "sleep": true
+  },
+  {
+   "name": "bunny-camera",
+   "label": "相机",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 5,
+   "sleep": true
+  },
+  {
    "name": "cat-location",
    "label": "定位",
    "type": "cat",
    "animal": "cat",
+   "n": 6,
+   "sleep": true
+  },
+  {
+   "name": "dog-location",
+   "label": "定位",
+   "type": "dog",
+   "animal": "dog",
+   "n": 6,
+   "sleep": true
+  },
+  {
+   "name": "lop-location",
+   "label": "定位",
+   "type": "lop",
+   "animal": "lop",
+   "n": 6,
+   "sleep": true
+  },
+  {
+   "name": "bunny-location",
+   "label": "定位",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 6,
    "sleep": true
   },
@@ -99,10 +327,58 @@
    "sleep": true
   },
   {
+   "name": "dog-cloud",
+   "label": "云",
+   "type": "dog",
+   "animal": "dog",
+   "n": 7,
+   "sleep": true
+  },
+  {
+   "name": "lop-cloud",
+   "label": "云",
+   "type": "lop",
+   "animal": "lop",
+   "n": 7,
+   "sleep": true
+  },
+  {
+   "name": "bunny-cloud",
+   "label": "云",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 7,
+   "sleep": true
+  },
+  {
    "name": "cat-sun",
    "label": "浅色模式",
    "type": "cat",
    "animal": "cat",
+   "n": 8,
+   "sleep": true
+  },
+  {
+   "name": "dog-sun",
+   "label": "浅色模式",
+   "type": "dog",
+   "animal": "dog",
+   "n": 8,
+   "sleep": true
+  },
+  {
+   "name": "lop-sun",
+   "label": "浅色模式",
+   "type": "lop",
+   "animal": "lop",
+   "n": 8,
+   "sleep": true
+  },
+  {
+   "name": "bunny-sun",
+   "label": "浅色模式",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 8,
    "sleep": true
   },
@@ -115,10 +391,58 @@
    "sleep": true
   },
   {
+   "name": "dog-shield",
+   "label": "安全",
+   "type": "dog",
+   "animal": "dog",
+   "n": 9,
+   "sleep": true
+  },
+  {
+   "name": "lop-shield",
+   "label": "安全",
+   "type": "lop",
+   "animal": "lop",
+   "n": 9,
+   "sleep": true
+  },
+  {
+   "name": "bunny-shield",
+   "label": "安全",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 9,
+   "sleep": true
+  },
+  {
    "name": "cat-scan",
    "label": "扫一扫",
    "type": "cat",
    "animal": "cat",
+   "n": 10,
+   "sleep": true
+  },
+  {
+   "name": "dog-scan",
+   "label": "扫一扫",
+   "type": "dog",
+   "animal": "dog",
+   "n": 10,
+   "sleep": true
+  },
+  {
+   "name": "lop-scan",
+   "label": "扫一扫",
+   "type": "lop",
+   "animal": "lop",
+   "n": 10,
+   "sleep": true
+  },
+  {
+   "name": "bunny-scan",
+   "label": "扫一扫",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 10,
    "sleep": true
   },
@@ -140,10 +464,85 @@
    "sleep": true
   },
   {
+   "name": "dog-mail",
+   "label": "信件",
+   "type": "dog",
+   "animal": "dog",
+   "n": 11,
+   "sleep": true
+  },
+  {
+   "name": "dog-mail-hug",
+   "label": "信件 · 抱",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-mail",
+   "n": 11,
+   "sleep": true
+  },
+  {
+   "name": "lop-mail",
+   "label": "信件",
+   "type": "lop",
+   "animal": "lop",
+   "n": 11,
+   "sleep": true
+  },
+  {
+   "name": "lop-mail-hug",
+   "label": "信件 · 抱",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-mail",
+   "n": 11,
+   "sleep": true
+  },
+  {
+   "name": "bunny-mail",
+   "label": "信件",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 11,
+   "sleep": true
+  },
+  {
+   "name": "bunny-mail-hug",
+   "label": "信件 · 抱",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-mail",
+   "n": 11,
+   "sleep": true
+  },
+  {
    "name": "cat-calendar",
    "label": "日历",
    "type": "cat",
    "animal": "cat",
+   "n": 12,
+   "sleep": true
+  },
+  {
+   "name": "dog-calendar",
+   "label": "日历",
+   "type": "dog",
+   "animal": "dog",
+   "n": 12,
+   "sleep": true
+  },
+  {
+   "name": "lop-calendar",
+   "label": "日历",
+   "type": "lop",
+   "animal": "lop",
+   "n": 12,
+   "sleep": true
+  },
+  {
+   "name": "bunny-calendar",
+   "label": "日历",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 12,
    "sleep": true
   },
@@ -156,10 +555,58 @@
    "sleep": true
   },
   {
+   "name": "dog-bag",
+   "label": "购物",
+   "type": "dog",
+   "animal": "dog",
+   "n": 13,
+   "sleep": true
+  },
+  {
+   "name": "lop-bag",
+   "label": "购物",
+   "type": "lop",
+   "animal": "lop",
+   "n": 13,
+   "sleep": true
+  },
+  {
+   "name": "bunny-bag",
+   "label": "购物",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 13,
+   "sleep": true
+  },
+  {
    "name": "cat-wallet",
    "label": "钱包",
    "type": "cat",
    "animal": "cat",
+   "n": 14,
+   "sleep": true
+  },
+  {
+   "name": "dog-wallet",
+   "label": "钱包",
+   "type": "dog",
+   "animal": "dog",
+   "n": 14,
+   "sleep": true
+  },
+  {
+   "name": "lop-wallet",
+   "label": "钱包",
+   "type": "lop",
+   "animal": "lop",
+   "n": 14,
+   "sleep": true
+  },
+  {
+   "name": "bunny-wallet",
+   "label": "钱包",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 14,
    "sleep": true
   },
@@ -172,10 +619,58 @@
    "sleep": true
   },
   {
+   "name": "dog-ticket",
+   "label": "优惠券",
+   "type": "dog",
+   "animal": "dog",
+   "n": 15,
+   "sleep": true
+  },
+  {
+   "name": "lop-ticket",
+   "label": "优惠券",
+   "type": "lop",
+   "animal": "lop",
+   "n": 15,
+   "sleep": true
+  },
+  {
+   "name": "bunny-ticket",
+   "label": "优惠券",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 15,
+   "sleep": true
+  },
+  {
    "name": "cat-image",
    "label": "图片",
    "type": "cat",
    "animal": "cat",
+   "n": 16,
+   "sleep": true
+  },
+  {
+   "name": "dog-image",
+   "label": "图片",
+   "type": "dog",
+   "animal": "dog",
+   "n": 16,
+   "sleep": true
+  },
+  {
+   "name": "lop-image",
+   "label": "图片",
+   "type": "lop",
+   "animal": "lop",
+   "n": 16,
+   "sleep": true
+  },
+  {
+   "name": "bunny-image",
+   "label": "图片",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 16,
    "sleep": true
   },
@@ -188,10 +683,58 @@
    "sleep": true
   },
   {
+   "name": "dog-video",
+   "label": "视频",
+   "type": "dog",
+   "animal": "dog",
+   "n": 17,
+   "sleep": true
+  },
+  {
+   "name": "lop-video",
+   "label": "视频",
+   "type": "lop",
+   "animal": "lop",
+   "n": 17,
+   "sleep": true
+  },
+  {
+   "name": "bunny-video",
+   "label": "视频",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 17,
+   "sleep": true
+  },
+  {
    "name": "cat-map",
    "label": "地图",
    "type": "cat",
    "animal": "cat",
+   "n": 18,
+   "sleep": true
+  },
+  {
+   "name": "dog-map",
+   "label": "地图",
+   "type": "dog",
+   "animal": "dog",
+   "n": 18,
+   "sleep": true
+  },
+  {
+   "name": "lop-map",
+   "label": "地图",
+   "type": "lop",
+   "animal": "lop",
+   "n": 18,
+   "sleep": true
+  },
+  {
+   "name": "bunny-map",
+   "label": "地图",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 18,
    "sleep": true
   },
@@ -204,10 +747,58 @@
    "sleep": true
   },
   {
+   "name": "dog-key",
+   "label": "钥匙",
+   "type": "dog",
+   "animal": "dog",
+   "n": 19,
+   "sleep": true
+  },
+  {
+   "name": "lop-key",
+   "label": "钥匙",
+   "type": "lop",
+   "animal": "lop",
+   "n": 19,
+   "sleep": true
+  },
+  {
+   "name": "bunny-key",
+   "label": "钥匙",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 19,
+   "sleep": true
+  },
+  {
    "name": "cat-redpacket",
    "label": "红包",
    "type": "cat",
    "animal": "cat",
+   "n": 20,
+   "sleep": true
+  },
+  {
+   "name": "dog-redpacket",
+   "label": "红包",
+   "type": "dog",
+   "animal": "dog",
+   "n": 20,
+   "sleep": true
+  },
+  {
+   "name": "lop-redpacket",
+   "label": "红包",
+   "type": "lop",
+   "animal": "lop",
+   "n": 20,
+   "sleep": true
+  },
+  {
+   "name": "bunny-redpacket",
+   "label": "红包",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 20,
    "sleep": true
   },
@@ -220,10 +811,58 @@
    "sleep": true
   },
   {
+   "name": "dog-package",
+   "label": "快递",
+   "type": "dog",
+   "animal": "dog",
+   "n": 21,
+   "sleep": true
+  },
+  {
+   "name": "lop-package",
+   "label": "快递",
+   "type": "lop",
+   "animal": "lop",
+   "n": 21,
+   "sleep": true
+  },
+  {
+   "name": "bunny-package",
+   "label": "快递",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 21,
+   "sleep": true
+  },
+  {
    "name": "cat-cart",
    "label": "购物车",
    "type": "cat",
    "animal": "cat",
+   "n": 22,
+   "sleep": true
+  },
+  {
+   "name": "dog-cart",
+   "label": "购物车",
+   "type": "dog",
+   "animal": "dog",
+   "n": 22,
+   "sleep": true
+  },
+  {
+   "name": "lop-cart",
+   "label": "购物车",
+   "type": "lop",
+   "animal": "lop",
+   "n": 22,
+   "sleep": true
+  },
+  {
+   "name": "bunny-cart",
+   "label": "购物车",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 22,
    "sleep": true
   },
@@ -236,10 +875,58 @@
    "sleep": true
   },
   {
+   "name": "dog-folder",
+   "label": "文件夹",
+   "type": "dog",
+   "animal": "dog",
+   "n": 23,
+   "sleep": true
+  },
+  {
+   "name": "lop-folder",
+   "label": "文件夹",
+   "type": "lop",
+   "animal": "lop",
+   "n": 23,
+   "sleep": true
+  },
+  {
+   "name": "bunny-folder",
+   "label": "文件夹",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 23,
+   "sleep": true
+  },
+  {
    "name": "cat-bookmark",
    "label": "收藏",
    "type": "cat",
    "animal": "cat",
+   "n": 24,
+   "sleep": true
+  },
+  {
+   "name": "dog-bookmark",
+   "label": "收藏",
+   "type": "dog",
+   "animal": "dog",
+   "n": 24,
+   "sleep": true
+  },
+  {
+   "name": "lop-bookmark",
+   "label": "收藏",
+   "type": "lop",
+   "animal": "lop",
+   "n": 24,
+   "sleep": true
+  },
+  {
+   "name": "bunny-bookmark",
+   "label": "收藏",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 24,
    "sleep": true
   },
@@ -252,10 +939,58 @@
    "sleep": true
   },
   {
+   "name": "dog-file",
+   "label": "文件",
+   "type": "dog",
+   "animal": "dog",
+   "n": 25,
+   "sleep": true
+  },
+  {
+   "name": "lop-file",
+   "label": "文件",
+   "type": "lop",
+   "animal": "lop",
+   "n": 25,
+   "sleep": true
+  },
+  {
+   "name": "bunny-file",
+   "label": "文件",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 25,
+   "sleep": true
+  },
+  {
    "name": "cat-tag",
    "label": "标签",
    "type": "cat",
    "animal": "cat",
+   "n": 26,
+   "sleep": true
+  },
+  {
+   "name": "dog-tag",
+   "label": "标签",
+   "type": "dog",
+   "animal": "dog",
+   "n": 26,
+   "sleep": true
+  },
+  {
+   "name": "lop-tag",
+   "label": "标签",
+   "type": "lop",
+   "animal": "lop",
+   "n": 26,
+   "sleep": true
+  },
+  {
+   "name": "bunny-tag",
+   "label": "标签",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 26,
    "sleep": true
   },
@@ -286,10 +1021,112 @@
    "sleep": true
   },
   {
+   "name": "dog-heart",
+   "label": "喜欢",
+   "type": "dog",
+   "animal": "dog",
+   "n": 27,
+   "sleep": true
+  },
+  {
+   "name": "dog-heart-chin",
+   "label": "喜欢 · 托",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-heart",
+   "n": 27,
+   "sleep": true
+  },
+  {
+   "name": "dog-heart-side",
+   "label": "喜欢 · 斜着咬",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-heart",
+   "n": 27,
+   "sleep": true
+  },
+  {
+   "name": "lop-heart",
+   "label": "喜欢",
+   "type": "lop",
+   "animal": "lop",
+   "n": 27,
+   "sleep": true
+  },
+  {
+   "name": "lop-heart-chin",
+   "label": "喜欢 · 托",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-heart",
+   "n": 27,
+   "sleep": true
+  },
+  {
+   "name": "lop-heart-side",
+   "label": "喜欢 · 斜着咬",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-heart",
+   "n": 27,
+   "sleep": true
+  },
+  {
+   "name": "bunny-heart",
+   "label": "喜欢",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 27,
+   "sleep": true
+  },
+  {
+   "name": "bunny-heart-chin",
+   "label": "喜欢 · 托",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-heart",
+   "n": 27,
+   "sleep": true
+  },
+  {
+   "name": "bunny-heart-side",
+   "label": "喜欢 · 斜着咬",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-heart",
+   "n": 27,
+   "sleep": true
+  },
+  {
    "name": "cat-star",
    "label": "星标",
    "type": "cat",
    "animal": "cat",
+   "n": 28,
+   "sleep": true
+  },
+  {
+   "name": "dog-star",
+   "label": "星标",
+   "type": "dog",
+   "animal": "dog",
+   "n": 28,
+   "sleep": true
+  },
+  {
+   "name": "lop-star",
+   "label": "星标",
+   "type": "lop",
+   "animal": "lop",
+   "n": 28,
+   "sleep": true
+  },
+  {
+   "name": "bunny-star",
+   "label": "星标",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 28,
    "sleep": true
   },
@@ -302,10 +1139,58 @@
    "sleep": true
   },
   {
+   "name": "dog-bulb",
+   "label": "灵感",
+   "type": "dog",
+   "animal": "dog",
+   "n": 29,
+   "sleep": true
+  },
+  {
+   "name": "lop-bulb",
+   "label": "灵感",
+   "type": "lop",
+   "animal": "lop",
+   "n": 29,
+   "sleep": true
+  },
+  {
+   "name": "bunny-bulb",
+   "label": "灵感",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 29,
+   "sleep": true
+  },
+  {
    "name": "cat-trophy",
    "label": "奖杯",
    "type": "cat",
    "animal": "cat",
+   "n": 30,
+   "sleep": true
+  },
+  {
+   "name": "dog-trophy",
+   "label": "奖杯",
+   "type": "dog",
+   "animal": "dog",
+   "n": 30,
+   "sleep": true
+  },
+  {
+   "name": "lop-trophy",
+   "label": "奖杯",
+   "type": "lop",
+   "animal": "lop",
+   "n": 30,
+   "sleep": true
+  },
+  {
+   "name": "bunny-trophy",
+   "label": "奖杯",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 30,
    "sleep": true
   },
@@ -318,10 +1203,58 @@
    "sleep": true
   },
   {
+   "name": "dog-fire",
+   "label": "热门",
+   "type": "dog",
+   "animal": "dog",
+   "n": 31,
+   "sleep": true
+  },
+  {
+   "name": "lop-fire",
+   "label": "热门",
+   "type": "lop",
+   "animal": "lop",
+   "n": 31,
+   "sleep": true
+  },
+  {
+   "name": "bunny-fire",
+   "label": "热门",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 31,
+   "sleep": true
+  },
+  {
    "name": "cat-gift",
    "label": "礼物",
    "type": "cat",
    "animal": "cat",
+   "n": 32,
+   "sleep": true
+  },
+  {
+   "name": "dog-gift",
+   "label": "礼物",
+   "type": "dog",
+   "animal": "dog",
+   "n": 32,
+   "sleep": true
+  },
+  {
+   "name": "lop-gift",
+   "label": "礼物",
+   "type": "lop",
+   "animal": "lop",
+   "n": 32,
+   "sleep": true
+  },
+  {
+   "name": "bunny-gift",
+   "label": "礼物",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 32,
    "sleep": true
   },
@@ -334,10 +1267,58 @@
    "sleep": true
   },
   {
+   "name": "dog-book",
+   "label": "书",
+   "type": "dog",
+   "animal": "dog",
+   "n": 33,
+   "sleep": true
+  },
+  {
+   "name": "lop-book",
+   "label": "书",
+   "type": "lop",
+   "animal": "lop",
+   "n": 33,
+   "sleep": true
+  },
+  {
+   "name": "bunny-book",
+   "label": "书",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 33,
+   "sleep": true
+  },
+  {
    "name": "cat-coin",
    "label": "积分",
    "type": "cat",
    "animal": "cat",
+   "n": 34,
+   "sleep": true
+  },
+  {
+   "name": "dog-coin",
+   "label": "积分",
+   "type": "dog",
+   "animal": "dog",
+   "n": 34,
+   "sleep": true
+  },
+  {
+   "name": "lop-coin",
+   "label": "积分",
+   "type": "lop",
+   "animal": "lop",
+   "n": 34,
+   "sleep": true
+  },
+  {
+   "name": "bunny-coin",
+   "label": "积分",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 34,
    "sleep": true
   },
@@ -350,10 +1331,58 @@
    "sleep": true
   },
   {
+   "name": "dog-game",
+   "label": "游戏",
+   "type": "dog",
+   "animal": "dog",
+   "n": 35,
+   "sleep": true
+  },
+  {
+   "name": "lop-game",
+   "label": "游戏",
+   "type": "lop",
+   "animal": "lop",
+   "n": 35,
+   "sleep": true
+  },
+  {
+   "name": "bunny-game",
+   "label": "游戏",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 35,
+   "sleep": true
+  },
+  {
    "name": "cat-home",
    "label": "主页",
    "type": "cat",
    "animal": "cat",
+   "n": 36,
+   "sleep": true
+  },
+  {
+   "name": "dog-home",
+   "label": "主页",
+   "type": "dog",
+   "animal": "dog",
+   "n": 36,
+   "sleep": true
+  },
+  {
+   "name": "lop-home",
+   "label": "主页",
+   "type": "lop",
+   "animal": "lop",
+   "n": 36,
+   "sleep": true
+  },
+  {
+   "name": "bunny-home",
+   "label": "主页",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 36,
    "sleep": true
   },
@@ -366,10 +1395,58 @@
    "sleep": true
   },
   {
+   "name": "dog-crown",
+   "label": "会员",
+   "type": "dog",
+   "animal": "dog",
+   "n": 37,
+   "sleep": true
+  },
+  {
+   "name": "lop-crown",
+   "label": "会员",
+   "type": "lop",
+   "animal": "lop",
+   "n": 37,
+   "sleep": true
+  },
+  {
+   "name": "bunny-crown",
+   "label": "会员",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 37,
+   "sleep": true
+  },
+  {
    "name": "cat-music",
    "label": "音乐",
    "type": "cat",
    "animal": "cat",
+   "n": 38,
+   "sleep": true
+  },
+  {
+   "name": "dog-music",
+   "label": "音乐",
+   "type": "dog",
+   "animal": "dog",
+   "n": 38,
+   "sleep": true
+  },
+  {
+   "name": "lop-music",
+   "label": "音乐",
+   "type": "lop",
+   "animal": "lop",
+   "n": 38,
+   "sleep": true
+  },
+  {
+   "name": "bunny-music",
+   "label": "音乐",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 38,
    "sleep": true
   },
@@ -382,10 +1459,58 @@
    "sleep": true
   },
   {
+   "name": "dog-cake",
+   "label": "生日",
+   "type": "dog",
+   "animal": "dog",
+   "n": 39,
+   "sleep": true
+  },
+  {
+   "name": "lop-cake",
+   "label": "生日",
+   "type": "lop",
+   "animal": "lop",
+   "n": 39,
+   "sleep": true
+  },
+  {
+   "name": "bunny-cake",
+   "label": "生日",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 39,
+   "sleep": true
+  },
+  {
    "name": "cat-headset",
    "label": "客服",
    "type": "cat",
    "animal": "cat",
+   "n": 40,
+   "sleep": true
+  },
+  {
+   "name": "dog-headset",
+   "label": "客服",
+   "type": "dog",
+   "animal": "dog",
+   "n": 40,
+   "sleep": true
+  },
+  {
+   "name": "lop-headset",
+   "label": "客服",
+   "type": "lop",
+   "animal": "lop",
+   "n": 40,
+   "sleep": true
+  },
+  {
+   "name": "bunny-headset",
+   "label": "客服",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 40,
    "sleep": true
   },
@@ -398,10 +1523,58 @@
    "sleep": true
   },
   {
+   "name": "dog-settings",
+   "label": "设置",
+   "type": "dog",
+   "animal": "dog",
+   "n": 41,
+   "sleep": true
+  },
+  {
+   "name": "lop-settings",
+   "label": "设置",
+   "type": "lop",
+   "animal": "lop",
+   "n": 41,
+   "sleep": true
+  },
+  {
+   "name": "bunny-settings",
+   "label": "设置",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 41,
+   "sleep": true
+  },
+  {
    "name": "cat-clock",
    "label": "时间",
    "type": "cat",
    "animal": "cat",
+   "n": 42,
+   "sleep": true
+  },
+  {
+   "name": "dog-clock",
+   "label": "时间",
+   "type": "dog",
+   "animal": "dog",
+   "n": 42,
+   "sleep": true
+  },
+  {
+   "name": "lop-clock",
+   "label": "时间",
+   "type": "lop",
+   "animal": "lop",
+   "n": 42,
+   "sleep": true
+  },
+  {
+   "name": "bunny-clock",
+   "label": "时间",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 42,
    "sleep": true
   },
@@ -414,10 +1587,58 @@
    "sleep": true
   },
   {
+   "name": "dog-globe",
+   "label": "语言",
+   "type": "dog",
+   "animal": "dog",
+   "n": 43,
+   "sleep": true
+  },
+  {
+   "name": "lop-globe",
+   "label": "语言",
+   "type": "lop",
+   "animal": "lop",
+   "n": 43,
+   "sleep": true
+  },
+  {
+   "name": "bunny-globe",
+   "label": "语言",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 43,
+   "sleep": true
+  },
+  {
    "name": "cat-moon",
    "label": "深色模式",
    "type": "cat",
    "animal": "cat",
+   "n": 44,
+   "sleep": true
+  },
+  {
+   "name": "dog-moon",
+   "label": "深色模式",
+   "type": "dog",
+   "animal": "dog",
+   "n": 44,
+   "sleep": true
+  },
+  {
+   "name": "lop-moon",
+   "label": "深色模式",
+   "type": "lop",
+   "animal": "lop",
+   "n": 44,
+   "sleep": true
+  },
+  {
+   "name": "bunny-moon",
+   "label": "深色模式",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 44,
    "sleep": true
   },
@@ -435,6 +1656,57 @@
    "type": "cat",
    "animal": "cat",
    "alternateOf": "cat-me",
+   "n": 45,
+   "sleep": true
+  },
+  {
+   "name": "dog-me",
+   "label": "我的",
+   "type": "dog",
+   "animal": "dog",
+   "n": 45,
+   "sleep": true
+  },
+  {
+   "name": "dog-me-whole",
+   "label": "我的 · 整只",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-me",
+   "n": 45,
+   "sleep": true
+  },
+  {
+   "name": "lop-me",
+   "label": "我的",
+   "type": "lop",
+   "animal": "lop",
+   "n": 45,
+   "sleep": true
+  },
+  {
+   "name": "lop-me-whole",
+   "label": "我的 · 整只",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-me",
+   "n": 45,
+   "sleep": true
+  },
+  {
+   "name": "bunny-me",
+   "label": "我的",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 45,
+   "sleep": true
+  },
+  {
+   "name": "bunny-me-whole",
+   "label": "我的 · 整只",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-me",
    "n": 45,
    "sleep": true
   },
@@ -465,10 +1737,112 @@
    "sleep": true
   },
   {
+   "name": "dog-users",
+   "label": "好友",
+   "type": "dog",
+   "animal": "dog",
+   "n": 46,
+   "sleep": true
+  },
+  {
+   "name": "dog-users-small",
+   "label": "好友 · 小身体",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-users",
+   "n": 46,
+   "sleep": true
+  },
+  {
+   "name": "dog-users-whole",
+   "label": "好友 · 两只整只",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-users",
+   "n": 46,
+   "sleep": true
+  },
+  {
+   "name": "lop-users",
+   "label": "好友",
+   "type": "lop",
+   "animal": "lop",
+   "n": 46,
+   "sleep": true
+  },
+  {
+   "name": "lop-users-small",
+   "label": "好友 · 小身体",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-users",
+   "n": 46,
+   "sleep": true
+  },
+  {
+   "name": "lop-users-whole",
+   "label": "好友 · 两只整只",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-users",
+   "n": 46,
+   "sleep": true
+  },
+  {
+   "name": "bunny-users",
+   "label": "好友",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 46,
+   "sleep": true
+  },
+  {
+   "name": "bunny-users-small",
+   "label": "好友 · 小身体",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-users",
+   "n": 46,
+   "sleep": true
+  },
+  {
+   "name": "bunny-users-whole",
+   "label": "好友 · 两只整只",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-users",
+   "n": 46,
+   "sleep": true
+  },
+  {
    "name": "cat-user-add",
    "label": "加好友",
    "type": "cat",
    "animal": "cat",
+   "n": 47,
+   "sleep": true
+  },
+  {
+   "name": "dog-user-add",
+   "label": "加好友",
+   "type": "dog",
+   "animal": "dog",
+   "n": 47,
+   "sleep": true
+  },
+  {
+   "name": "lop-user-add",
+   "label": "加好友",
+   "type": "lop",
+   "animal": "lop",
+   "n": 47,
+   "sleep": true
+  },
+  {
+   "name": "bunny-user-add",
+   "label": "加好友",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 47,
    "sleep": true
   },
@@ -481,6 +1855,30 @@
    "sleep": true
   },
   {
+   "name": "dog-chart",
+   "label": "数据",
+   "type": "dog",
+   "animal": "dog",
+   "n": 48,
+   "sleep": true
+  },
+  {
+   "name": "lop-chart",
+   "label": "数据",
+   "type": "lop",
+   "animal": "lop",
+   "n": 48,
+   "sleep": true
+  },
+  {
+   "name": "bunny-chart",
+   "label": "数据",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 48,
+   "sleep": true
+  },
+  {
    "name": "cat-phone",
    "label": "电话",
    "type": "cat",
@@ -489,10 +1887,58 @@
    "sleep": true
   },
   {
+   "name": "dog-phone",
+   "label": "电话",
+   "type": "dog",
+   "animal": "dog",
+   "n": 49,
+   "sleep": true
+  },
+  {
+   "name": "lop-phone",
+   "label": "电话",
+   "type": "lop",
+   "animal": "lop",
+   "n": 49,
+   "sleep": true
+  },
+  {
+   "name": "bunny-phone",
+   "label": "电话",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 49,
+   "sleep": true
+  },
+  {
    "name": "cat-mic",
    "label": "语音",
    "type": "cat",
    "animal": "cat",
+   "n": 50,
+   "sleep": true
+  },
+  {
+   "name": "dog-mic",
+   "label": "语音",
+   "type": "dog",
+   "animal": "dog",
+   "n": 50,
+   "sleep": true
+  },
+  {
+   "name": "lop-mic",
+   "label": "语音",
+   "type": "lop",
+   "animal": "lop",
+   "n": 50,
+   "sleep": true
+  },
+  {
+   "name": "bunny-mic",
+   "label": "语音",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 50,
    "sleep": true
   },
@@ -855,10 +2301,58 @@
    "sleep": true
   },
   {
+   "name": "dog-tv",
+   "label": "电视",
+   "type": "dog",
+   "animal": "dog",
+   "n": 101,
+   "sleep": true
+  },
+  {
+   "name": "lop-tv",
+   "label": "电视",
+   "type": "lop",
+   "animal": "lop",
+   "n": 101,
+   "sleep": true
+  },
+  {
+   "name": "bunny-tv",
+   "label": "电视",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 101,
+   "sleep": true
+  },
+  {
    "name": "cat-watch",
    "label": "手表",
    "type": "cat",
    "animal": "cat",
+   "n": 102,
+   "sleep": true
+  },
+  {
+   "name": "dog-watch",
+   "label": "手表",
+   "type": "dog",
+   "animal": "dog",
+   "n": 102,
+   "sleep": true
+  },
+  {
+   "name": "lop-watch",
+   "label": "手表",
+   "type": "lop",
+   "animal": "lop",
+   "n": 102,
+   "sleep": true
+  },
+  {
+   "name": "bunny-watch",
+   "label": "手表",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 102,
    "sleep": true
   },
@@ -871,10 +2365,58 @@
    "sleep": true
   },
   {
+   "name": "dog-mobile",
+   "label": "手机",
+   "type": "dog",
+   "animal": "dog",
+   "n": 103,
+   "sleep": true
+  },
+  {
+   "name": "lop-mobile",
+   "label": "手机",
+   "type": "lop",
+   "animal": "lop",
+   "n": 103,
+   "sleep": true
+  },
+  {
+   "name": "bunny-mobile",
+   "label": "手机",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 103,
+   "sleep": true
+  },
+  {
    "name": "cat-alarm",
    "label": "闹钟",
    "type": "cat",
    "animal": "cat",
+   "n": 104,
+   "sleep": true
+  },
+  {
+   "name": "dog-alarm",
+   "label": "闹钟",
+   "type": "dog",
+   "animal": "dog",
+   "n": 104,
+   "sleep": true
+  },
+  {
+   "name": "lop-alarm",
+   "label": "闹钟",
+   "type": "lop",
+   "animal": "lop",
+   "n": 104,
+   "sleep": true
+  },
+  {
+   "name": "bunny-alarm",
+   "label": "闹钟",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 104,
    "sleep": true
   },
@@ -887,10 +2429,58 @@
    "sleep": true
   },
   {
+   "name": "dog-puzzle",
+   "label": "插件",
+   "type": "dog",
+   "animal": "dog",
+   "n": 105,
+   "sleep": true
+  },
+  {
+   "name": "lop-puzzle",
+   "label": "插件",
+   "type": "lop",
+   "animal": "lop",
+   "n": 105,
+   "sleep": true
+  },
+  {
+   "name": "bunny-puzzle",
+   "label": "插件",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 105,
+   "sleep": true
+  },
+  {
    "name": "cat-car",
    "label": "出行",
    "type": "cat",
    "animal": "cat",
+   "n": 106,
+   "sleep": true
+  },
+  {
+   "name": "dog-car",
+   "label": "出行",
+   "type": "dog",
+   "animal": "dog",
+   "n": 106,
+   "sleep": true
+  },
+  {
+   "name": "lop-car",
+   "label": "出行",
+   "type": "lop",
+   "animal": "lop",
+   "n": 106,
+   "sleep": true
+  },
+  {
+   "name": "bunny-car",
+   "label": "出行",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 106,
    "sleep": true
   },
@@ -903,10 +2493,58 @@
    "sleep": true
   },
   {
+   "name": "dog-bus",
+   "label": "公交",
+   "type": "dog",
+   "animal": "dog",
+   "n": 107,
+   "sleep": true
+  },
+  {
+   "name": "lop-bus",
+   "label": "公交",
+   "type": "lop",
+   "animal": "lop",
+   "n": 107,
+   "sleep": true
+  },
+  {
+   "name": "bunny-bus",
+   "label": "公交",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 107,
+   "sleep": true
+  },
+  {
    "name": "cat-store",
    "label": "商店",
    "type": "cat",
    "animal": "cat",
+   "n": 108,
+   "sleep": true
+  },
+  {
+   "name": "dog-store",
+   "label": "商店",
+   "type": "dog",
+   "animal": "dog",
+   "n": 108,
+   "sleep": true
+  },
+  {
+   "name": "lop-store",
+   "label": "商店",
+   "type": "lop",
+   "animal": "lop",
+   "n": 108,
+   "sleep": true
+  },
+  {
+   "name": "bunny-store",
+   "label": "商店",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 108,
    "sleep": true
   },
@@ -919,10 +2557,58 @@
    "sleep": true
   },
   {
+   "name": "dog-live",
+   "label": "直播",
+   "type": "dog",
+   "animal": "dog",
+   "n": 109,
+   "sleep": true
+  },
+  {
+   "name": "lop-live",
+   "label": "直播",
+   "type": "lop",
+   "animal": "lop",
+   "n": 109,
+   "sleep": true
+  },
+  {
+   "name": "bunny-live",
+   "label": "直播",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 109,
+   "sleep": true
+  },
+  {
    "name": "cat-sticker",
    "label": "表情包",
    "type": "cat",
    "animal": "cat",
+   "n": 110,
+   "sleep": true
+  },
+  {
+   "name": "dog-sticker",
+   "label": "表情包",
+   "type": "dog",
+   "animal": "dog",
+   "n": 110,
+   "sleep": true
+  },
+  {
+   "name": "lop-sticker",
+   "label": "表情包",
+   "type": "lop",
+   "animal": "lop",
+   "n": 110,
+   "sleep": true
+  },
+  {
+   "name": "bunny-sticker",
+   "label": "表情包",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 110,
    "sleep": true
   },
@@ -935,10 +2621,58 @@
    "sleep": true
   },
   {
+   "name": "dog-fish",
+   "label": "美食",
+   "type": "dog",
+   "animal": "dog",
+   "n": 111,
+   "sleep": true
+  },
+  {
+   "name": "lop-fish",
+   "label": "美食",
+   "type": "lop",
+   "animal": "lop",
+   "n": 111,
+   "sleep": true
+  },
+  {
+   "name": "bunny-fish",
+   "label": "美食",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 111,
+   "sleep": true
+  },
+  {
    "name": "cat-bath",
    "label": "洗澡",
    "type": "cat",
    "animal": "cat",
+   "n": 112,
+   "sleep": true
+  },
+  {
+   "name": "dog-bath",
+   "label": "洗澡",
+   "type": "dog",
+   "animal": "dog",
+   "n": 112,
+   "sleep": true
+  },
+  {
+   "name": "lop-bath",
+   "label": "洗澡",
+   "type": "lop",
+   "animal": "lop",
+   "n": 112,
+   "sleep": true
+  },
+  {
+   "name": "bunny-bath",
+   "label": "洗澡",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 112,
    "sleep": true
   },
@@ -951,10 +2685,58 @@
    "sleep": true
   },
   {
+   "name": "dog-dumbbell",
+   "label": "健身",
+   "type": "dog",
+   "animal": "dog",
+   "n": 113,
+   "sleep": true
+  },
+  {
+   "name": "lop-dumbbell",
+   "label": "健身",
+   "type": "lop",
+   "animal": "lop",
+   "n": 113,
+   "sleep": true
+  },
+  {
+   "name": "bunny-dumbbell",
+   "label": "健身",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 113,
+   "sleep": true
+  },
+  {
    "name": "cat-pencil",
    "label": "写作",
    "type": "cat",
    "animal": "cat",
+   "n": 114,
+   "sleep": true
+  },
+  {
+   "name": "dog-pencil",
+   "label": "写作",
+   "type": "dog",
+   "animal": "dog",
+   "n": 114,
+   "sleep": true
+  },
+  {
+   "name": "lop-pencil",
+   "label": "写作",
+   "type": "lop",
+   "animal": "lop",
+   "n": 114,
+   "sleep": true
+  },
+  {
+   "name": "bunny-pencil",
+   "label": "写作",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 114,
    "sleep": true
   },
@@ -967,10 +2749,58 @@
    "sleep": true
   },
   {
+   "name": "dog-laptop",
+   "label": "电脑",
+   "type": "dog",
+   "animal": "dog",
+   "n": 115,
+   "sleep": true
+  },
+  {
+   "name": "lop-laptop",
+   "label": "电脑",
+   "type": "lop",
+   "animal": "lop",
+   "n": 115,
+   "sleep": true
+  },
+  {
+   "name": "bunny-laptop",
+   "label": "电脑",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 115,
+   "sleep": true
+  },
+  {
    "name": "cat-card",
    "label": "银行卡",
    "type": "cat",
    "animal": "cat",
+   "n": 116,
+   "sleep": true
+  },
+  {
+   "name": "dog-card",
+   "label": "银行卡",
+   "type": "dog",
+   "animal": "dog",
+   "n": 116,
+   "sleep": true
+  },
+  {
+   "name": "lop-card",
+   "label": "银行卡",
+   "type": "lop",
+   "animal": "lop",
+   "n": 116,
+   "sleep": true
+  },
+  {
+   "name": "bunny-card",
+   "label": "银行卡",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 116,
    "sleep": true
   },
@@ -983,10 +2813,58 @@
    "sleep": true
   },
   {
+   "name": "dog-inbox",
+   "label": "收件箱",
+   "type": "dog",
+   "animal": "dog",
+   "n": 117,
+   "sleep": true
+  },
+  {
+   "name": "lop-inbox",
+   "label": "收件箱",
+   "type": "lop",
+   "animal": "lop",
+   "n": 117,
+   "sleep": true
+  },
+  {
+   "name": "bunny-inbox",
+   "label": "收件箱",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 117,
+   "sleep": true
+  },
+  {
    "name": "cat-qr",
    "label": "二维码",
    "type": "cat",
    "animal": "cat",
+   "n": 118,
+   "sleep": true
+  },
+  {
+   "name": "dog-qr",
+   "label": "二维码",
+   "type": "dog",
+   "animal": "dog",
+   "n": 118,
+   "sleep": true
+  },
+  {
+   "name": "lop-qr",
+   "label": "二维码",
+   "type": "lop",
+   "animal": "lop",
+   "n": 118,
+   "sleep": true
+  },
+  {
+   "name": "bunny-qr",
+   "label": "二维码",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 118,
    "sleep": true
   },
@@ -999,10 +2877,58 @@
    "sleep": true
   },
   {
+   "name": "dog-checkin",
+   "label": "签到",
+   "type": "dog",
+   "animal": "dog",
+   "n": 119,
+   "sleep": true
+  },
+  {
+   "name": "lop-checkin",
+   "label": "签到",
+   "type": "lop",
+   "animal": "lop",
+   "n": 119,
+   "sleep": true
+  },
+  {
+   "name": "bunny-checkin",
+   "label": "签到",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 119,
+   "sleep": true
+  },
+  {
    "name": "cat-news",
    "label": "资讯",
    "type": "cat",
    "animal": "cat",
+   "n": 120,
+   "sleep": true
+  },
+  {
+   "name": "dog-news",
+   "label": "资讯",
+   "type": "dog",
+   "animal": "dog",
+   "n": 120,
+   "sleep": true
+  },
+  {
+   "name": "lop-news",
+   "label": "资讯",
+   "type": "lop",
+   "animal": "lop",
+   "n": 120,
+   "sleep": true
+  },
+  {
+   "name": "bunny-news",
+   "label": "资讯",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 120,
    "sleep": true
   },
@@ -1015,10 +2941,58 @@
    "sleep": true
   },
   {
+   "name": "dog-thermometer",
+   "label": "体温",
+   "type": "dog",
+   "animal": "dog",
+   "n": 121,
+   "sleep": true
+  },
+  {
+   "name": "lop-thermometer",
+   "label": "体温",
+   "type": "lop",
+   "animal": "lop",
+   "n": 121,
+   "sleep": true
+  },
+  {
+   "name": "bunny-thermometer",
+   "label": "体温",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 121,
+   "sleep": true
+  },
+  {
    "name": "cat-briefcase",
    "label": "工作",
    "type": "cat",
    "animal": "cat",
+   "n": 122,
+   "sleep": true
+  },
+  {
+   "name": "dog-briefcase",
+   "label": "工作",
+   "type": "dog",
+   "animal": "dog",
+   "n": 122,
+   "sleep": true
+  },
+  {
+   "name": "lop-briefcase",
+   "label": "工作",
+   "type": "lop",
+   "animal": "lop",
+   "n": 122,
+   "sleep": true
+  },
+  {
+   "name": "bunny-briefcase",
+   "label": "工作",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 122,
    "sleep": true
   },
@@ -1031,6 +3005,30 @@
    "sleep": true
   },
   {
+   "name": "dog-wand",
+   "label": "魔法",
+   "type": "dog",
+   "animal": "dog",
+   "n": 123,
+   "sleep": true
+  },
+  {
+   "name": "lop-wand",
+   "label": "魔法",
+   "type": "lop",
+   "animal": "lop",
+   "n": 123,
+   "sleep": true
+  },
+  {
+   "name": "bunny-wand",
+   "label": "魔法",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 123,
+   "sleep": true
+  },
+  {
    "name": "cat-suitcase",
    "label": "旅行",
    "type": "cat",
@@ -1039,10 +3037,58 @@
    "sleep": true
   },
   {
+   "name": "dog-suitcase",
+   "label": "旅行",
+   "type": "dog",
+   "animal": "dog",
+   "n": 124,
+   "sleep": true
+  },
+  {
+   "name": "lop-suitcase",
+   "label": "旅行",
+   "type": "lop",
+   "animal": "lop",
+   "n": 124,
+   "sleep": true
+  },
+  {
+   "name": "bunny-suitcase",
+   "label": "旅行",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 124,
+   "sleep": true
+  },
+  {
    "name": "cat-receipt",
    "label": "账单",
    "type": "cat",
    "animal": "cat",
+   "n": 125,
+   "sleep": true
+  },
+  {
+   "name": "dog-receipt",
+   "label": "账单",
+   "type": "dog",
+   "animal": "dog",
+   "n": 125,
+   "sleep": true
+  },
+  {
+   "name": "lop-receipt",
+   "label": "账单",
+   "type": "lop",
+   "animal": "lop",
+   "n": 125,
+   "sleep": true
+  },
+  {
+   "name": "bunny-receipt",
+   "label": "账单",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 125,
    "sleep": true
   },
@@ -1064,6 +3110,57 @@
    "sleep": true
   },
   {
+   "name": "dog-icecream",
+   "label": "甜品",
+   "type": "dog",
+   "animal": "dog",
+   "n": 126,
+   "sleep": true
+  },
+  {
+   "name": "dog-icecream-top",
+   "label": "甜品 · 顶着",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-icecream",
+   "n": 126,
+   "sleep": true
+  },
+  {
+   "name": "lop-icecream",
+   "label": "甜品",
+   "type": "lop",
+   "animal": "lop",
+   "n": 126,
+   "sleep": true
+  },
+  {
+   "name": "lop-icecream-top",
+   "label": "甜品 · 顶着",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-icecream",
+   "n": 126,
+   "sleep": true
+  },
+  {
+   "name": "bunny-icecream",
+   "label": "甜品",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 126,
+   "sleep": true
+  },
+  {
+   "name": "bunny-icecream-top",
+   "label": "甜品 · 顶着",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-icecream",
+   "n": 126,
+   "sleep": true
+  },
+  {
    "name": "cat-umbrella",
    "label": "下雨",
    "type": "cat",
@@ -1081,10 +3178,85 @@
    "sleep": true
   },
   {
+   "name": "dog-umbrella",
+   "label": "下雨",
+   "type": "dog",
+   "animal": "dog",
+   "n": 127,
+   "sleep": true
+  },
+  {
+   "name": "dog-umbrella-top",
+   "label": "下雨 · 顶着",
+   "type": "dog",
+   "animal": "dog",
+   "alternateOf": "dog-umbrella",
+   "n": 127,
+   "sleep": true
+  },
+  {
+   "name": "lop-umbrella",
+   "label": "下雨",
+   "type": "lop",
+   "animal": "lop",
+   "n": 127,
+   "sleep": true
+  },
+  {
+   "name": "lop-umbrella-top",
+   "label": "下雨 · 顶着",
+   "type": "lop",
+   "animal": "lop",
+   "alternateOf": "lop-umbrella",
+   "n": 127,
+   "sleep": true
+  },
+  {
+   "name": "bunny-umbrella",
+   "label": "下雨",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 127,
+   "sleep": true
+  },
+  {
+   "name": "bunny-umbrella-top",
+   "label": "下雨 · 顶着",
+   "type": "bunny",
+   "animal": "bunny",
+   "alternateOf": "bunny-umbrella",
+   "n": 127,
+   "sleep": true
+  },
+  {
    "name": "cat-ball",
    "label": "运动",
    "type": "cat",
    "animal": "cat",
+   "n": 128,
+   "sleep": true
+  },
+  {
+   "name": "dog-ball",
+   "label": "运动",
+   "type": "dog",
+   "animal": "dog",
+   "n": 128,
+   "sleep": true
+  },
+  {
+   "name": "lop-ball",
+   "label": "运动",
+   "type": "lop",
+   "animal": "lop",
+   "n": 128,
+   "sleep": true
+  },
+  {
+   "name": "bunny-ball",
+   "label": "运动",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 128,
    "sleep": true
   },
@@ -1097,10 +3269,58 @@
    "sleep": true
   },
   {
+   "name": "dog-gem",
+   "label": "钻石",
+   "type": "dog",
+   "animal": "dog",
+   "n": 129,
+   "sleep": true
+  },
+  {
+   "name": "lop-gem",
+   "label": "钻石",
+   "type": "lop",
+   "animal": "lop",
+   "n": 129,
+   "sleep": true
+  },
+  {
+   "name": "bunny-gem",
+   "label": "钻石",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 129,
+   "sleep": true
+  },
+  {
    "name": "cat-dice",
    "label": "随机",
    "type": "cat",
    "animal": "cat",
+   "n": 130,
+   "sleep": true
+  },
+  {
+   "name": "dog-dice",
+   "label": "随机",
+   "type": "dog",
+   "animal": "dog",
+   "n": 130,
+   "sleep": true
+  },
+  {
+   "name": "lop-dice",
+   "label": "随机",
+   "type": "lop",
+   "animal": "lop",
+   "n": 130,
+   "sleep": true
+  },
+  {
+   "name": "bunny-dice",
+   "label": "随机",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 130,
    "sleep": true
   },
@@ -1113,10 +3333,58 @@
    "sleep": true
   },
   {
+   "name": "dog-coffee",
+   "label": "咖啡",
+   "type": "dog",
+   "animal": "dog",
+   "n": 131,
+   "sleep": true
+  },
+  {
+   "name": "lop-coffee",
+   "label": "咖啡",
+   "type": "lop",
+   "animal": "lop",
+   "n": 131,
+   "sleep": true
+  },
+  {
+   "name": "bunny-coffee",
+   "label": "咖啡",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 131,
+   "sleep": true
+  },
+  {
    "name": "cat-bubbletea",
    "label": "奶茶",
    "type": "cat",
    "animal": "cat",
+   "n": 132,
+   "sleep": true
+  },
+  {
+   "name": "dog-bubbletea",
+   "label": "奶茶",
+   "type": "dog",
+   "animal": "dog",
+   "n": 132,
+   "sleep": true
+  },
+  {
+   "name": "lop-bubbletea",
+   "label": "奶茶",
+   "type": "lop",
+   "animal": "lop",
+   "n": 132,
+   "sleep": true
+  },
+  {
+   "name": "bunny-bubbletea",
+   "label": "奶茶",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 132,
    "sleep": true
   },
@@ -1129,10 +3397,58 @@
    "sleep": true
   },
   {
+   "name": "dog-medal",
+   "label": "勋章",
+   "type": "dog",
+   "animal": "dog",
+   "n": 133,
+   "sleep": true
+  },
+  {
+   "name": "lop-medal",
+   "label": "勋章",
+   "type": "lop",
+   "animal": "lop",
+   "n": 133,
+   "sleep": true
+  },
+  {
+   "name": "bunny-medal",
+   "label": "勋章",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 133,
+   "sleep": true
+  },
+  {
    "name": "cat-pill",
    "label": "吃药",
    "type": "cat",
    "animal": "cat",
+   "n": 134,
+   "sleep": true
+  },
+  {
+   "name": "dog-pill",
+   "label": "吃药",
+   "type": "dog",
+   "animal": "dog",
+   "n": 134,
+   "sleep": true
+  },
+  {
+   "name": "lop-pill",
+   "label": "吃药",
+   "type": "lop",
+   "animal": "lop",
+   "n": 134,
+   "sleep": true
+  },
+  {
+   "name": "bunny-pill",
+   "label": "吃药",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 134,
    "sleep": true
   },
@@ -1145,10 +3461,58 @@
    "sleep": true
   },
   {
+   "name": "dog-notebook",
+   "label": "笔记",
+   "type": "dog",
+   "animal": "dog",
+   "n": 135,
+   "sleep": true
+  },
+  {
+   "name": "lop-notebook",
+   "label": "笔记",
+   "type": "lop",
+   "animal": "lop",
+   "n": 135,
+   "sleep": true
+  },
+  {
+   "name": "bunny-notebook",
+   "label": "笔记",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 135,
+   "sleep": true
+  },
+  {
    "name": "cat-palette",
    "label": "创作",
    "type": "cat",
    "animal": "cat",
+   "n": 136,
+   "sleep": true
+  },
+  {
+   "name": "dog-palette",
+   "label": "创作",
+   "type": "dog",
+   "animal": "dog",
+   "n": 136,
+   "sleep": true
+  },
+  {
+   "name": "lop-palette",
+   "label": "创作",
+   "type": "lop",
+   "animal": "lop",
+   "n": 136,
+   "sleep": true
+  },
+  {
+   "name": "bunny-palette",
+   "label": "创作",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 136,
    "sleep": true
   },
@@ -1161,10 +3525,58 @@
    "sleep": true
   },
   {
+   "name": "dog-popcorn",
+   "label": "电影",
+   "type": "dog",
+   "animal": "dog",
+   "n": 137,
+   "sleep": true
+  },
+  {
+   "name": "lop-popcorn",
+   "label": "电影",
+   "type": "lop",
+   "animal": "lop",
+   "n": 137,
+   "sleep": true
+  },
+  {
+   "name": "bunny-popcorn",
+   "label": "电影",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 137,
+   "sleep": true
+  },
+  {
    "name": "cat-sleep",
    "label": "睡眠",
    "type": "cat",
    "animal": "cat",
+   "n": 138,
+   "sleep": true
+  },
+  {
+   "name": "dog-sleep",
+   "label": "睡眠",
+   "type": "dog",
+   "animal": "dog",
+   "n": 138,
+   "sleep": true
+  },
+  {
+   "name": "lop-sleep",
+   "label": "睡眠",
+   "type": "lop",
+   "animal": "lop",
+   "n": 138,
+   "sleep": true
+  },
+  {
+   "name": "bunny-sleep",
+   "label": "睡眠",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 138,
    "sleep": true
   },
@@ -1177,10 +3589,58 @@
    "sleep": true
   },
   {
+   "name": "dog-sprout",
+   "label": "成长",
+   "type": "dog",
+   "animal": "dog",
+   "n": 139,
+   "sleep": true
+  },
+  {
+   "name": "lop-sprout",
+   "label": "成长",
+   "type": "lop",
+   "animal": "lop",
+   "n": 139,
+   "sleep": true
+  },
+  {
+   "name": "bunny-sprout",
+   "label": "成长",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 139,
+   "sleep": true
+  },
+  {
    "name": "cat-bandage",
    "label": "修复",
    "type": "cat",
    "animal": "cat",
+   "n": 140,
+   "sleep": true
+  },
+  {
+   "name": "dog-bandage",
+   "label": "修复",
+   "type": "dog",
+   "animal": "dog",
+   "n": 140,
+   "sleep": true
+  },
+  {
+   "name": "lop-bandage",
+   "label": "修复",
+   "type": "lop",
+   "animal": "lop",
+   "n": 140,
+   "sleep": true
+  },
+  {
+   "name": "bunny-bandage",
+   "label": "修复",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 140,
    "sleep": true
   },
@@ -1193,10 +3653,58 @@
    "sleep": true
   },
   {
+   "name": "dog-grad",
+   "label": "学习",
+   "type": "dog",
+   "animal": "dog",
+   "n": 141,
+   "sleep": true
+  },
+  {
+   "name": "lop-grad",
+   "label": "学习",
+   "type": "lop",
+   "animal": "lop",
+   "n": 141,
+   "sleep": true
+  },
+  {
+   "name": "bunny-grad",
+   "label": "学习",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 141,
+   "sleep": true
+  },
+  {
    "name": "cat-robot",
    "label": "助手",
    "type": "cat",
    "animal": "cat",
+   "n": 142,
+   "sleep": true
+  },
+  {
+   "name": "dog-robot",
+   "label": "助手",
+   "type": "dog",
+   "animal": "dog",
+   "n": 142,
+   "sleep": true
+  },
+  {
+   "name": "lop-robot",
+   "label": "助手",
+   "type": "lop",
+   "animal": "lop",
+   "n": 142,
+   "sleep": true
+  },
+  {
+   "name": "bunny-robot",
+   "label": "助手",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 142,
    "sleep": true
   },
@@ -1209,10 +3717,58 @@
    "sleep": true
   },
   {
+   "name": "dog-glasses",
+   "label": "护眼",
+   "type": "dog",
+   "animal": "dog",
+   "n": 143,
+   "sleep": true
+  },
+  {
+   "name": "lop-glasses",
+   "label": "护眼",
+   "type": "lop",
+   "animal": "lop",
+   "n": 143,
+   "sleep": true
+  },
+  {
+   "name": "bunny-glasses",
+   "label": "护眼",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 143,
+   "sleep": true
+  },
+  {
    "name": "cat-sparkles",
    "label": "新功能",
    "type": "cat",
    "animal": "cat",
+   "n": 144,
+   "sleep": true
+  },
+  {
+   "name": "dog-sparkles",
+   "label": "新功能",
+   "type": "dog",
+   "animal": "dog",
+   "n": 144,
+   "sleep": true
+  },
+  {
+   "name": "lop-sparkles",
+   "label": "新功能",
+   "type": "lop",
+   "animal": "lop",
+   "n": 144,
+   "sleep": true
+  },
+  {
+   "name": "bunny-sparkles",
+   "label": "新功能",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 144,
    "sleep": true
   },
@@ -1225,10 +3781,58 @@
    "sleep": true
   },
   {
+   "name": "dog-flower",
+   "label": "小花",
+   "type": "dog",
+   "animal": "dog",
+   "n": 145,
+   "sleep": true
+  },
+  {
+   "name": "lop-flower",
+   "label": "小花",
+   "type": "lop",
+   "animal": "lop",
+   "n": 145,
+   "sleep": true
+  },
+  {
+   "name": "bunny-flower",
+   "label": "小花",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 145,
+   "sleep": true
+  },
+  {
    "name": "cat-balloon",
    "label": "庆祝",
    "type": "cat",
    "animal": "cat",
+   "n": 146,
+   "sleep": true
+  },
+  {
+   "name": "dog-balloon",
+   "label": "庆祝",
+   "type": "dog",
+   "animal": "dog",
+   "n": 146,
+   "sleep": true
+  },
+  {
+   "name": "lop-balloon",
+   "label": "庆祝",
+   "type": "lop",
+   "animal": "lop",
+   "n": 146,
+   "sleep": true
+  },
+  {
+   "name": "bunny-balloon",
+   "label": "庆祝",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 146,
    "sleep": true
   },
@@ -1241,10 +3845,58 @@
    "sleep": true
   },
   {
+   "name": "dog-snow",
+   "label": "冬天",
+   "type": "dog",
+   "animal": "dog",
+   "n": 147,
+   "sleep": true
+  },
+  {
+   "name": "lop-snow",
+   "label": "冬天",
+   "type": "lop",
+   "animal": "lop",
+   "n": 147,
+   "sleep": true
+  },
+  {
+   "name": "bunny-snow",
+   "label": "冬天",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 147,
+   "sleep": true
+  },
+  {
    "name": "cat-compass",
    "label": "发现",
    "type": "cat",
    "animal": "cat",
+   "n": 148,
+   "sleep": true
+  },
+  {
+   "name": "dog-compass",
+   "label": "发现",
+   "type": "dog",
+   "animal": "dog",
+   "n": 148,
+   "sleep": true
+  },
+  {
+   "name": "lop-compass",
+   "label": "发现",
+   "type": "lop",
+   "animal": "lop",
+   "n": 148,
+   "sleep": true
+  },
+  {
+   "name": "bunny-compass",
+   "label": "发现",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 148,
    "sleep": true
   },
@@ -1257,10 +3909,58 @@
    "sleep": true
   },
   {
+   "name": "dog-rocket",
+   "label": "启动",
+   "type": "dog",
+   "animal": "dog",
+   "n": 149,
+   "sleep": true
+  },
+  {
+   "name": "lop-rocket",
+   "label": "启动",
+   "type": "lop",
+   "animal": "lop",
+   "n": 149,
+   "sleep": true
+  },
+  {
+   "name": "bunny-rocket",
+   "label": "启动",
+   "type": "bunny",
+   "animal": "bunny",
+   "n": 149,
+   "sleep": true
+  },
+  {
    "name": "cat-piggy",
    "label": "存钱",
    "type": "cat",
    "animal": "cat",
+   "n": 150,
+   "sleep": true
+  },
+  {
+   "name": "dog-piggy",
+   "label": "存钱",
+   "type": "dog",
+   "animal": "dog",
+   "n": 150,
+   "sleep": true
+  },
+  {
+   "name": "lop-piggy",
+   "label": "存钱",
+   "type": "lop",
+   "animal": "lop",
+   "n": 150,
+   "sleep": true
+  },
+  {
+   "name": "bunny-piggy",
+   "label": "存钱",
+   "type": "bunny",
+   "animal": "bunny",
    "n": 150,
    "sleep": true
   },
